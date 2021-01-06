@@ -1,0 +1,9 @@
+body{
+    background-image: url("../images/timg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    font: 14px 'microsoft tehei';
+    font-weight: 300;
+}
